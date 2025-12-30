@@ -69,9 +69,9 @@ _(More projects coming soon...)_
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📸 Instagram: https://instagram.com/your-profile  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/chientan-singh  
+- 📸 Instagram: https://instagram.com/chintan_905  
+- 📧 Email: Chientansingh@gmail.com
 
 ---
 
