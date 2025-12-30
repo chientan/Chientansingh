@@ -1,5 +1,5 @@
-(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=435&lines=Chientan)](https://git.io/typing-svg)<h1 align="center">Hi 👋, I'm Chientan</h1>
-<h3 align="center">Aspiring Web Developer & Data Analyst</h3>
+<h4 align="center">Hi 👋, I'm Chientan</h4>
+<h5 align="center">Aspiring Web Developer & Data Analyst</h5>
 
 ---
 
