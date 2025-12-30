@@ -67,6 +67,18 @@ _(More projects coming soon...)_
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
+## 🔗 My Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/chientan-singh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/chintan_905" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35" width="35"/>
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/chientan-singh  
