@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:00ff00&height=120&section=header&text=CHIENTAN&fontSize=60&fontAlignY=50
 <h1 align="center">Hi 👋, I'm Chientan</h1>
 <h3 align="center">Aspiring Web Developer & Data Analyst</h3>
 
